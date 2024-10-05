@@ -57,7 +57,7 @@
 	python corruptinator.py
 	```
 2. Click the "Browse" button to select a PNG file.
-3. Click the "Browse" button to select a PNG file.
+3. Click "Submit" to overwrite the selected file with random data.
 > **Warning**: This action is irreversible! Ensure you have backups of any important files before using this tool.
 
 ## ⚠️ Disclaimer
