@@ -42,6 +42,9 @@
 - Tkinter (usually included with Python installations)
 
 ## Installation
+### For Users
+Just download the `exe` from the [latest release](https://github.com/captainAyan/corruptinator/releases/latest)
+### For Devs
 1. Clone this repository:
 	```bash
    git clone https://github.com/captainAyan/corruptinator.git
